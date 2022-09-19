@@ -1,0 +1,14 @@
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.csproj.AssemblyReference.cache
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.AssemblyInfoInputs.cache
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.AssemblyInfo.cs
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.csproj.CoreCompileInputs.cache
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.exe
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.deps.json
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.runtimeconfig.json
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.runtimeconfig.dev.json
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.dll
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\bin\Debug\netcoreapp3.1\Pong1.pdb
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.dll
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.pdb
+C:\Users\atpcy\Desktop\repos\Pong1\Pong1\obj\Debug\netcoreapp3.1\Pong1.genruntimeconfig.cache
